@@ -6,7 +6,7 @@ import { SignJWT, jwtVerify } from 'jose';
 
 // How to generate your own UUID:
 // https://www.uuidgenerator.net/
-let userID = '300a5ae4-a56f-427b-a590-9a34a04bc3a2';
+let userID = '6f29906b-480f-4226-bab4-a63355192351';
 let trojanPassword = `m38d1`;
 
 // https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
